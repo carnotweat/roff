@@ -1,0 +1,15 @@
+.RP  (requests a separate cover sheet)
+.TL
+The title of the paper goes here;
+it may occupy one or more lines.
+.AU
+One or more author's names,
+arranged on one or more lines,
+as you would like them to appear.
+.AI
+The author's institution,
+arranged on one or more lines.
+.AB
+Abstract of the paper: a brief
+description of its contents.
+.AE  (marks the end of the abstract)
